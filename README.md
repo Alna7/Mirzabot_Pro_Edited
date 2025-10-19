@@ -28,7 +28,7 @@ When prompted, **select option 1** to complete the installation.
 ---
 
 ```bash
-curl -o install.sh -L https://raw.githubusercontent.com/abolfazl88x/mirza_pro/main/install.sh && bash install.sh -beta
+curl -o install.sh -L [https://raw.githubusercontent.com/abolfazl88x/mirza_pro/main/install.sh](https://github.com/Alna7/Mirzabot_Pro_Edited/blob/main/install.sh) && bash install.sh -beta
 ```
 
 ---
